@@ -15,10 +15,19 @@ html {
   cursor: pointer;
 }
 
+pp_main {
+  color: white;
+  font-weight: 700;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  margin-left: 15px;
+  margin-top: 20px;
+}
 .rectangle {
   display: none;
   width: 35vw;
-  height: 15vh;
+  height: 20vh;
   background: blue;
   position: absolute;
   margin-top: 39%;
@@ -28,11 +37,6 @@ html {
 .data_print {
   font-weight: 700;
   color: antiquewhite;
-  margin-left: 20px;
-  margin-top: 15px;
-  display: flex;
-  flex-direction: column;
-  width: 80%;
 }
 
 #zip, #dist, #inci, #inci_date {
