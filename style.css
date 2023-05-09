@@ -10,7 +10,7 @@ html {
 .top{
   width: 20%;
   position: absolute;
-  margin-left: 45%;
+  margin-left: 41%;
   margin-top: 3%;
   cursor: pointer;
 }
@@ -41,9 +41,4 @@ pp_main {
 
 #zip, #dist, #inci, #inci_date {
   display: inline;
-}
-
-.cls-7:hover {
-  fill: red;
-  filter: drop-shadow(0 0 0.4rem crimson);
 }

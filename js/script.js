@@ -92,6 +92,9 @@ function dataDisplay (zipId) {
   rect_data[0].style.display = "none";
  }
 
+var disColor = document.getElementById(zipId);
+disColor.style.fill = "green";
+
  /* console.log(zipId); */
 
 fetch("https://raw.githubusercontent.com/Samarthbhatia33/final_manhattan/main/edit.json")
