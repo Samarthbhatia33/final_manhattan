@@ -1,0 +1,226 @@
+body{
+  background-color: black;
+}
+.cover{
+  width: 100%;
+}
+.top{
+  width: 16%;
+  position: absolute;
+  margin-left: 57%;
+  margin-top: -4%;
+}
+.two{
+  width: 16%;
+  position: absolute;
+  margin-left: 50%;
+  margin-top: -4%;
+}
+.three{
+  width: 16%;
+  position: absolute;
+  margin-left: 57%;
+  margin-top: 0%;
+}
+.four{
+  width: 16%;
+  position: absolute;
+  margin-left: 47%;
+  margin-top: 3%;
+}
+.five{
+  width: 16%;
+  position: absolute;
+  margin-left: 57%;
+  margin-top: 10%;
+}
+.six{
+  width: 16%;
+  position: absolute;
+  margin-left: 47%;
+  margin-top: 5%;
+}
+.seven{
+  width: 16%;
+  position: absolute;
+  margin-left: 48%;
+  margin-top: 5%;
+}
+.eight{
+  width: 16%;
+  position: absolute;
+  margin-left: 60%;
+  margin-top: 12%;
+}
+.nine{
+  width: 16%;
+  position: absolute;
+  margin-left: 44%;
+  margin-top: 12%;
+}
+.ten{
+  width: 16%;
+  position: absolute;
+  margin-left: 53%;
+  margin-top: 13%;
+}
+.eleven{
+  width: 16%;
+  position: absolute;
+  margin-left: 57%;
+  margin-top: 16%;
+}
+.twelve{
+  width: 16%;
+  position: absolute;
+  margin-left: 49%;
+  margin-top: 18%;
+}
+.thirteen{
+  width: 16%;
+  position: absolute;
+  margin-left: 48%;
+  margin-top: 18%;
+}
+.fourteen{
+  width: 16%;
+  position: absolute;
+  margin-left: 66%;
+  margin-top: 20%;
+}
+.fifteen{
+  width: 16%;
+  position: absolute;
+  margin-left: 52%;
+  margin-top: 22%;
+}
+.sixteen{
+  width: 16%;
+  position: absolute;
+  margin-left: 46%;
+  margin-top: 22%;
+}
+.seventeen{
+  width: 16%;
+  position: absolute;
+  margin-left: 37%;
+  margin-top: 26%;
+}
+.eighteen{
+  width: 16%;
+  position: absolute;
+  margin-left: 50%;
+  margin-top: 35%;
+}
+.nineteen{
+  width: 16%;
+  position: absolute;
+  margin-left: 43%;
+  margin-top: 31%;
+}
+.twenty{
+  width: 16%;
+  position: absolute;
+  margin-left: 37%;
+  margin-top: 30%;
+}
+.tone{
+  width: 16%;
+  position: absolute;
+  margin-left: 47%;
+  margin-top: 39%;
+}
+.ttwo{
+  width: 16%;
+  position: absolute;
+  margin-left: 33%;
+  margin-top: 31%;
+}
+.tthree{
+  width: 16%;
+  position: absolute;
+  margin-left: 48%;
+  margin-top: 41%;
+}
+.tfour{
+  width: 16%;
+  position: absolute;
+  margin-left: 52%;
+  margin-top: 43%;
+}
+.tfive{
+  width: 16%;
+  position: absolute;
+  margin-left: 32%;
+  margin-top: 39%;
+}
+.tsix{
+  width: 16%;
+  position: absolute;
+  margin-left: 40%;
+  margin-top: 44%;
+}
+.tseven{
+  width: 16%;
+  position: absolute;
+  margin-left: 47%;
+  margin-top: 47%;
+}
+.teight{
+  width: 16%;
+  position: absolute;
+  margin-left: 37%;
+  margin-top: 42%;
+}
+.tnine{
+  width: 16%;
+  position: absolute;
+  margin-left: 30%;
+  margin-top: 45%;
+}
+.thirty{
+  width: 16%;
+  position: absolute;
+  margin-left: 40%;
+  margin-top: 50%;
+}
+.thone{
+  width: 16%;
+  position: absolute;
+  margin-left: 34%;
+  margin-top: 50%;
+}
+.thtwo{
+  width: 16%;
+  position: absolute;
+  margin-left: 57%;
+  margin-top: 45%;
+}
+.ththree{
+  width: 16%;
+  position: absolute;
+  margin-left: 37%;
+  margin-top: 52%;
+}
+.yellow{
+  width: 16%;
+  position: absolute;
+  margin-left: 50%;
+  margin-top: 32%;
+}
+.red{
+  width: 16%;
+  position: absolute;
+  margin-left: 37%;
+  margin-top: 21%;
+}
+
+
+
+
+.bottom{
+  width: 16%;
+  position: absolute;
+  margin-left: 25%;
+  margin-top: 50%;
+}

@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Space+Mono:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+html {
+  background-color: black;
+  font-family: 'Space Mono', sans-serif;
+}
+.cover{
+  width: 100%;
+}
+.top{
+  width: 20%;
+  position: absolute;
+  margin-left: 45%;
+  margin-top: 3%;
+  cursor: pointer;
+}
+
+.rectangle {
+  display: none;
+  width: 35vw;
+  height: 15vh;
+  background: blue;
+  position: absolute;
+  margin-top: 39%;
+  margin-left: 4%;
+}
+
+.data_print {
+  font-weight: 700;
+  color: antiquewhite;
+  margin-left: 20px;
+  margin-top: 15px;
+  display: flex;
+  flex-direction: column;
+  width: 80%;
+}
+
+#zip, #dist, #inci, #inci_date {
+  display: inline;
+}
+
+.cls-7:hover {
+  fill: red;
+  filter: drop-shadow(0 0 0.4rem crimson);
+}
